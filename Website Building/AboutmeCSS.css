@@ -1,0 +1,54 @@
+h1 {
+  background-color: white;
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+  padding-left: 10px 0px 30px 0px;
+  border-radius: 20px;
+}
+body {
+    background-image: url("Images/NatureBackground1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.div2 {
+  background-color: white;
+  font-size: 30px;
+  text-align: center;
+}
+img {
+  width: 60%;
+  height: 60%;
+}
+.background {
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  background-color: white;
+  padding: 0px 10px 100px 10px;
+  border-radius: 40px;
+}
+.topnav {
+    background-color:inherit;
+    overflow: hidden;
+}
+.topnav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 10px;
+}
+.topnav a:hover {
+    background-color: forestgreen;
+    color: white;
+}
+.topnav a.active {
+    background-color: forestgreen;
+    color: white;
+}
